@@ -1,0 +1,15 @@
+{
+	"name": "PatchedConics-SimpleInstall",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"$ignoreUnknownInstances": true,
+
+			"PatchedConics": {
+				"$path": "lib"
+			}
+		}
+	}
+}

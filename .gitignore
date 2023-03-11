@@ -1,0 +1,9 @@
+# Project place file
+/roblox-patched-conics.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Roblox Studio place files
+/*.rbxl
